@@ -23,7 +23,8 @@ done < "$report_file"
 echo "</table>" >> "$output_file"
 echo "</body>" >> "$output_file"
 echo "</html>" >> "$output_file"
-echo "PLEASE GIVE ME AN A :)" >> "$output_file"
+echo "<br>" >> "$output_file"
+echo "If youre seeing this it means the code worked as intented. Also your hair looks nice today :)" >> "$output_file"
 
 sudo mv "$output_file" "$report_destination"
 

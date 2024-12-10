@@ -14,4 +14,3 @@ https://www.geeksforgeeks.org/mv-command-linux-examples/
 I dont think we covered moving files in scripts, so I looked it up. :)
 
 Its been a pleasure being in your class this semester. 
-# CSI-230-FINAL
